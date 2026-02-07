@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Windowing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08120bc58b7ba9668315f0eff90aa0310f493693")]
 [assembly: System.Reflection.AssemblyProductAttribute("Windowing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Windowing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
